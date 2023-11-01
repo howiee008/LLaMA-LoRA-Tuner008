@@ -4,7 +4,7 @@ from huggingface_hub import snapshot_download
 
 
 def main(
-    base_model_names: str = "",
+    base_model_names: str = "meta-llama/Llama-2-7b-chat-hf",
 ):
     '''
     Download and cache base models form Hugging Face.
