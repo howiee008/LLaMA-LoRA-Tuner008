@@ -11,8 +11,8 @@ trust_remote_code: false
 
 # timezone: Atlantic/Reykjavik
 
-# auth_username: username
-# auth_password: password
+auth_username: howiee008
+auth_password: Hg@1369238
 
 # UI Customization
 # ui_title: LLM Tuner
